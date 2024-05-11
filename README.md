@@ -1,3 +1,4 @@
 # CMC-datas
-Methods of obtaining relevant data sets in my paper
-NEU- Obtain address for strip defect data set:
+The get link for NEU-datases is
+
+The SPD-dataset can be obtained by sending a request to the author of the email address upon reasonable request:
